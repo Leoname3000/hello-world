@@ -1,5 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1595170598 "Mysterious File.tex" "Mysterious File.pdf" "Mysterious File" 1595170598
+["pdflatex"] 1595338986 "/Users/leonidsulin/Documents/TexProjects/GitTex/hello-world/Mysterious File.tex" "/Users/leonidsulin/Documents/TexProjects/GitTex/hello-world/Mysterious File.pdf" "Mysterious File" 1595338987
+  "/Users/leonidsulin/Documents/TexProjects/GitTex/hello-world/Mysterious File.aux" 1595338987 71 2b822b9e144dee60aecfaa4339fc5459 ""
+  "/Users/leonidsulin/Documents/TexProjects/GitTex/hello-world/Mysterious File.tex" 1595338985 217 4c7ce273ce921d85e43a79b1091a06cb ""
   "/Users/leonidsulin/Library/texlive/2020/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm" 1594753646 3240 c2435f2b5cd66d4930bc29b8df87967e ""
   "/Users/leonidsulin/Library/texlive/2020/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1594796644 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/Users/leonidsulin/Library/texlive/2020/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1594798198 3264 03c2b9e4787a40d3b9c197c38b93b558 ""
@@ -8,6 +10,7 @@
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb" 1215737283 131290 ea265c7de37664eae04a6f91a1f7a51f ""
   "/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2020/texmf-dist/tex/generic/babel-russian/russianb.ldf" 1502400048 26091 c8ae0c5e664e3887bd445441d24e5ab6 ""
@@ -41,9 +44,11 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1594739422 2432461 7b808002864f9c498e2b476a26f2c8db ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "Mysterious File.aux" 1595170598 71 2b822b9e144dee60aecfaa4339fc5459 "pdflatex"
-  "Mysterious File.tex" 1595170598 199 455c581fcf357c129cc59d46637230d6 ""
+  "Mysterious File.aux" 1595338987 71 2b822b9e144dee60aecfaa4339fc5459 "pdflatex"
+  "Mysterious File.tex" 1595338985 217 4c7ce273ce921d85e43a79b1091a06cb ""
   (generated)
-  "Mysterious File.aux"
-  "Mysterious File.log"
   "Mysterious File.pdf"
+  "/Users/leonidsulin/Documents/TexProjects/GitTex/hello-world/Mysterious File.log"
+  "/Users/leonidsulin/Documents/TexProjects/GitTex/hello-world/Mysterious File.pdf"
+  "Mysterious File.log"
+  "Mysterious File.aux"
